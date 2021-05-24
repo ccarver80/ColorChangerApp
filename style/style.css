@@ -1,0 +1,17 @@
+h1 {
+  font-size: 2rem;
+  background-color: white;
+  text-align: center;
+
+}
+
+button {
+  color: black;
+  background-color: white;
+  font-size: 2rem;
+  border-radius: 10%;
+}
+
+div {
+  text-align: center;
+}
